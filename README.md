@@ -18,6 +18,7 @@ The file is built like the S235.csv in the repository.
 Inside the unfolder, you can either choose the known spreadsheet- technique, when there is a spreadsheet in the file.
 Now, there are the csv-files for each material. 
 When the csv-file is chosen, the k-factor for the thickness is automatically chosen and the length is automatically updated.
+I made a csv for S235, one for Aluminium, one for stainless, and so on...
 
 For safety, the actually chosen k-Factor is listed in the greyed out entry-field.
 
