@@ -13,18 +13,7 @@ The parameter text is (as our example) C:\Freecad_Sheetmetal_Materials
 
 This is where the unfolder looks for the csv-files.
 
-The file is built like this: (for example the S235.csv):
-Thickness,KFactor
-1.0,0.40
-1.5,0.40
-2.0,0.40
-3.0,0.40
-4.0,0.40
-5.0,0.40
-6.0,0.40
-8.0,0.35
-10.0,0.35
-15.0,0.30
+The file is built like the S235.csv in the repository.
 
 Inside the unfolder, you can either choose the known spreadsheet- technique, when there is a spreadsheet in the file.
 Now, there are the csv-files for each material. 
