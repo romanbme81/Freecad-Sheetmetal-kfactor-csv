@@ -16,7 +16,7 @@ This is where the unfolder looks for the csv-files.
 The file is built like the S235.csv in the repository.
 
 Inside the unfolder, you can either choose the known spreadsheet- technique, when there is a spreadsheet in the file.
-Now, there are the csv-files for each material. 
+Now, there are the csv-files for each material in the dropdown list. You can either choose "Manual K-Factor", the spreadsheet, or the custom csv-file(s)
 When the csv-file is chosen, the k-factor for the thickness is automatically chosen and the length is automatically updated.
 I made a csv for S235, one for Aluminium, one for stainless, and so on...
 
